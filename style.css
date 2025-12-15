@@ -1,3 +1,6 @@
 .header{
-        background-color: blue;
+        background-color: rgb(46, 46, 247);
+        color: white;
+        align-items: flex-start;
+        display: flex;
 }
