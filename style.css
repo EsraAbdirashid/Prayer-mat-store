@@ -30,6 +30,16 @@
         cursor: pointer;
         font-family: sans-serif;
 }
+
+.navs ul li:hover{
+        color: blue;
+        background-color: white;
+        border: 15px;
+        border-radius: 2px;
+        padding: 6px;
+        transition:  0.3s;
+        font-weight: 600;
+}
 .icons{
           display: flex;  
           gap: 20px;
