@@ -8,13 +8,30 @@
         color: white;
         display: flex;
         justify-content: space-between;
+        padding: 15px;
+        
 
+}
+
+.Logo{
+        font-size: larger;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 600;
+        font-style:normal;
+        color: rgb(216, 213, 213);
 }
 
 .navs ul{
         display: flex;
         justify-content: center;
-        gap: 20px;
+        gap: 58px;
         list-style: none;
-
+        padding-top: 10px;
+        cursor: pointer;
+        font-family: sans-serif;
+}
+.icons{
+          display: flex;  
+          gap: 20px;
+          cursor: pointer;
 }
